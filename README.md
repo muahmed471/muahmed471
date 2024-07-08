@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muahmed471
-- 👀 I’m interested in Developer role
+- 👀 I’m interested in Full Stack Engineer role
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on Developer job soon
+- 💞️ I’m looking to collaborate on Full Stack Engineer job soon
 - 📫 How to reach me muahmed471@gmail.com
 
 <!---
